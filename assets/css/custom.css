@@ -1,0 +1,7 @@
+a:hover:not(.block):not(.not-prose) {
+    color: #d36826;
+}
+
+nav a:hover {
+    color: #2fd326;
+}
