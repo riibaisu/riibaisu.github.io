@@ -3,7 +3,7 @@ title = 'example3'
 date = 2023-01-15T09:00:00-07:00
 draft = false
 tags = ['projects']
-listIcon = "/writing.png"
+listIcon = ""
 teaser = "Some flavor text here..."
 +++
 

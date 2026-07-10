@@ -5,6 +5,13 @@ theme = 'digio-theme'
 
 [markup.goldmark.renderer]
   hardWraps = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.link]
+        useEmbedded = 'auto'
+
   
 [menus]
   [[menus.main]]

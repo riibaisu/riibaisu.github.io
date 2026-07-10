@@ -10,28 +10,28 @@
 		
 		
 		
-			<lastBuildDate>Sun, 15 Jan 2023 09:00:00 -0700</lastBuildDate>
+			<lastBuildDate>Wed, 08 Jul 2026 09:00:00 -0700</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>example1</title>
-				<link>http://localhost:1313/blog/test/</link>
-				<pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-				<guid>http://localhost:1313/blog/test/</guid>
-				<description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;unordered list item 1&lt;/li&gt;&#xA;&lt;li&gt;unordered list item 2&lt;/li&gt;&#xA;&lt;li&gt;unordered list item 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; to do list&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; to do list&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;</description>
+				<title>Customer Cat Postmortem</title>
+				<link>http://localhost:1313/blog/2026/2026-07-08-customer_cat_postmortem/</link>
+				<pubDate>Wed, 08 Jul 2026 09:00:00 -0700</pubDate>
+				<guid>http://localhost:1313/blog/2026/2026-07-08-customer_cat_postmortem/</guid>
+				<description>&lt;p&gt;This was &lt;a href=&#34;http://localhost:1313/blog/2026/2026-07-08-my_first_experience_with_defold&#34;&gt;my first experience with Defold&lt;/a&gt;, and I used it to make a small Bitsy-inspired game. I only had a few days to work on it for a game jam, which is why the game ended up being so short, rushed, and ultimately not very interesting. Even so, I learned a lot from the experience, and that alone made the project worthwhile.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-idea&#34;&gt;The Idea&lt;/h2&gt;&#xA;&lt;p&gt;A Bitsy game is essentially a collection of rooms, characters, objects, and dialogue, where the player explores the world by interacting with each of those elements. I wanted to make a game in that style about a cat who is incredibly entitled and constantly complains about the not-so-beautiful world around it, especially whenever it&amp;rsquo;s treated like an ordinary customer. Since the jam&amp;rsquo;s theme was &lt;em&gt;&lt;strong&gt;&amp;ldquo;toxic&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;, I thought the concept fit perfectly.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>My first experience with Defold</title>
+				<link>http://localhost:1313/blog/2026/2026-07-08-my_first_experience_with_defold/</link>
+				<pubDate>Wed, 08 Jul 2026 09:00:00 -0700</pubDate>
+				<guid>http://localhost:1313/blog/2026/2026-07-08-my_first_experience_with_defold/</guid>
+				<description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/defold/assets-defold/master/assets-defold/logo_with_text/logo-hor-classic-white.svg&#34; alt=&#34;Defold Logo&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-defold&#34;&gt;What is Defold?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://defold.com/&#34;&gt;Defold&lt;/a&gt; defines itself as &amp;ldquo;&lt;em&gt;a free, powerful, all-in-one game engine for development of 2D and 3D truly cross-platform games.&lt;/em&gt;&amp;rdquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-experience&#34;&gt;My Experience&lt;/h2&gt;&#xA;&lt;p&gt;My main engine is Godot. It’s the engine I’ve been trying to make games with for the past few years, watching tutorials and experimenting since 2020. However, it is not a perfect game engine, there&amp;rsquo;s no such thing, and it is natural for me, a not so talented gamedev, to try and search for better tools.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>example1</title>
 				<link>http://localhost:1313/write/test/</link>
 				<pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
 				<guid>http://localhost:1313/write/test/</guid>
-				<description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;unordered list item 1&lt;/li&gt;&#xA;&lt;li&gt;unordered list item 2&lt;/li&gt;&#xA;&lt;li&gt;unordered list item 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; to do list&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; to do list&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;</description>
-			</item>
-			<item>
-				<title>example2</title>
-				<link>http://localhost:1313/blog/test2/</link>
-				<pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-				<guid>http://localhost:1313/blog/test2/</guid>
 				<description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;unordered list item 1&lt;/li&gt;&#xA;&lt;li&gt;unordered list item 2&lt;/li&gt;&#xA;&lt;li&gt;unordered list item 3&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;li&gt;ordered list&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; to do list&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; to do list&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;</description>
 			</item>
 			<item>
