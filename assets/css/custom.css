@@ -1,7 +1,45 @@
+html {
+    background-color: #1A1A1A;
+}
+
+
 a:hover:not(.block):not(.not-prose) {
     color: #d36826;
 }
 
 nav a:hover {
     color: #2fd326;
+}
+
+a {
+  color: #FFFFF0;
+}
+
+blockquote {
+  border-left: 2px solid #FFFFF0;
+  color: #FFFFF0;
+}
+
+h1 {
+  color: #FFFFF0;
+}
+
+h2 {
+  color: #FFFFF0;
+}
+
+h3 {
+  color: #FFFFF0;
+}
+
+h4 {
+  color: #FFFFF0;
+}
+
+h5 {
+  color: #FFFFF0;
+}
+
+h6 {
+  color: #FFFFF0;
 }

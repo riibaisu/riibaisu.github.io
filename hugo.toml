@@ -12,7 +12,7 @@ theme = 'digio-theme'
     pageRef = '/'
     weight = 1
     [menus.main.params]
-      image = '/digigarden2025.png'
+      image = '/home_icon.png'
 
   [[menus.main]]
     name = 'projects'
