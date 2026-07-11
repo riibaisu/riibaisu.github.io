@@ -68,5 +68,7 @@
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
     <loc>http://localhost:1313/me/</loc>
+  </url><url>
+    <loc>http://localhost:1313/socials/</loc>
   </url>
 </urlset>

@@ -35,6 +35,11 @@ theme = 'digio-theme'
     name = 'me'
     pageRef = '/me'
     weight = 4    
+  
+  [[menus.main]]
+    name = 'socials'
+    pageRef = '/socials'
+    weight = 5
 
 [module]
   [module.hugoVersion]

@@ -11,7 +11,7 @@ I hope you enjoy it!
 
 statusImage = "/status.png"
 statusTitle = "Current Project"
-statusText = """Working on my personal website! Using Hugo and TailwindCSS.
+statusText = """Working on my personal website! Using HUGO and TailwindCSS.
  
 **Website is still a work in progress!**"""
 

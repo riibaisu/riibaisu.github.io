@@ -1,34 +1,50 @@
 +++
 title = "me"
 layout = "me"
+
+meBody = """
+# the developer
+
+Hello! My name is Riibaisu, but you may also call me by my real name, Levi. I'm a hobbyist game developer from Brazil, trying to make games in my free time, ranging from brazilian scenarios to abstract cute adventures.
+
+Check out my [socials](/socials) to find me on other platforms!
+
+## tools I use (not particularly):
+
+### programming
+- [Godot](https://godotengine.org/)
+- [VS Codium](https://vscodium.com/)
+- [Defold](https://defold.com/)
+
+### design and art
+- [Gimp](https://www.gimp.org/)
+- [Krita](https://krita.org/)
+- [Inkscape](https://inkscape.org/)
+- Aseprite
+
+### music
+- Tenacity
+- LMMS
+- 1bitdragon
+"""
+
 likes = [
-  "Example 1",
-  "Example 2",
-  "Example 3",
-  "Example 4",
-  "Example 5",
-  "Example 6",
-  "Example 7",
-  "Example 8",
-  "Example 9",
-  "Example 10",
+  "cats and dogs",
+  "games",
+  "anime and manga",
+  "open-source tools",
 ]
 
 dislikes = [
-  "Example 1",
-  "Example 2",
-  "Example 3",
-  "Example 4",
-  "Example 5",
-  "Example 6",
+  "rude people",
+  "capitalism",
+  "cruelty",
 ]
 
 hobbies = [
-  "Example 1",
-  "Example 2",
-  "Example 3",
-  "Example 4",
-  "Example 5",
-  "Example 6",
+  "game dev and programming in general",
+  "learning japanese",
+  "digital art",
+  "watching youtube videos",
 ]
 +++
