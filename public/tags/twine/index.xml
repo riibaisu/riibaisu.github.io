@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Tue, 07 Jul 2026 09:00:00 -0700</lastBuildDate>
+			<lastBuildDate>Thu, 09 Jul 2026 19:48:37 -0300</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/twine/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My First Experience with Twine</title>
+				<link>http://localhost:1313/blog/2026/2026-07-09-my_first_experience_with_twine/</link>
+				<pubDate>Thu, 09 Jul 2026 19:48:37 -0300</pubDate>
+				<guid>http://localhost:1313/blog/2026/2026-07-09-my_first_experience_with_twine/</guid>
+				<description>&lt;h2 id=&#34;what-is-twine&#34;&gt;What is Twine?&lt;/h2&gt;&#xA;&lt;p&gt;In its website, Twine is defined as &amp;ldquo;&lt;em&gt;an open-source tool for telling interactive, nonlinear stories&lt;/em&gt;&amp;rdquo;. I like to think about it as a branching dialog game creator.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-experience&#34;&gt;My Experience&lt;/h2&gt;&#xA;&lt;p&gt;After finishing the [[Customer Cat Postmortem|last game jam]], I was eager to participate in another one, but I only had 8 hours to submit something. With my current skill set, I knew I couldn&amp;rsquo;t make a polished graphical game in that time, so I decided to write an interactive story instead. It&amp;rsquo;s a game after all, right?&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Espiral</title>
 				<link>http://localhost:1313/projects/espiral/</link>

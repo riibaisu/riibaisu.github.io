@@ -60,29 +60,34 @@
             
   <div class="flex">
     <div class="flex-1">
-      <h1 class=" py-2">Customer Cat Postmortem</h1>
+      <h1 class=" py-2">My First Experience with Twine</h1>
       
       
-      <time datetime="2026-07-08T09:00:00-07:00" class="block mb-4">July 8, 2026</time>
-      <p><a href="/projects/customer-cat">Customer Cat</a> was <a href="/blog/2026/2026-07-08-my_first_experience_with_defold">my first experience with Defold</a>, and I used it to make a small Bitsy-inspired game. I only had a few days to work on it for a game jam, which is why the game ended up being so short, rushed, and ultimately not very interesting. Even so, I learned a lot from the experience, and that alone made the project worthwhile.</p>
-<h2 id="the-idea">The Idea</h2>
-<p>A Bitsy game is essentially a collection of rooms, characters, objects, and dialogue, where the player explores the world by interacting with each of those elements. I wanted to make a game in that style about a cat who is incredibly entitled and constantly complains about the not-so-beautiful world around it, especially whenever it&rsquo;s treated like an ordinary customer. Since the jam&rsquo;s theme was <em><strong>&ldquo;toxic&rdquo;</strong></em>, I thought the concept fit perfectly.</p>
-<h2 id="the-development">The Development</h2>
-<p>I won&rsquo;t lie, I expected to ship a game with far more features than I ultimately did. However, Defold&rsquo;s GUI system and hierarchy URLs were a bit confusing at first, so I spent a significant amount of time just learning how they worked before I could implement even the basic features.</p>
-<p>My original plan was to include several NPCs, interactive objects, and a proper story that would last around five minutes. I also wanted to contrast the cat&rsquo;s comfortable gated community with the city surrounding it. Unfortunately, I had to cut most of those ideas to finish the project on time.</p>
-<p>Instead of giving up and submitting nothing, I decided to scale the scope down as much as possible. The result was a very short game where the cat buys a soda and bullies a minimum-wage worker.</p>
-<h2 id="the-conclusion">The Conclusion</h2>
-<p>It&rsquo;s far from a great game, but I genuinely enjoyed making it and learned a lot along the way. More importantly, I now have a solid foundation that I can build on for future Defold projects.</p>
+      <time datetime="2026-07-09T19:48:37-03:00" class="block mb-4">July 9, 2026</time>
+      <h2 id="what-is-twine">What is Twine?</h2>
+<p>In its website, Twine is defined as &ldquo;<em>an open-source tool for telling interactive, nonlinear stories</em>&rdquo;. I like to think about it as a branching dialog game creator.</p>
+<h2 id="my-experience">My Experience</h2>
+<p>After finishing the [[Customer Cat Postmortem|last game jam]], I was eager to participate in another one, but I only had 8 hours to submit something. With my current skill set, I knew I couldn&rsquo;t make a polished graphical game in that time, so I decided to write an interactive story instead. It&rsquo;s a game after all, right?</p>
+<h3 id="the-good">The Good</h3>
+<p>It is straightforward to use and start creating a story and the branching paths. Besides that, you can structure your story however you want, make a choice based game or a linear one; you&rsquo;re in control of how it works.</p>
+<p>Writing was the easiest part, I simply typed and I had a functional text game in an hour or so. And the editor lets me see how my planning is structured and where I should put more effort into.</p>
+<h3 id="the-downsides">The Downsides</h3>
+<p>Everything outside of writing text is not so clear. The documentation is not easy to navigate and there are talks about plugins, story formats and all that when I just want to play a sound or insert an image. Basically, to make anything else, I had to browse reddit answers and keep trying their code.</p>
+<p>Yes, I know, Twine scripting is basically [[HTML]], [[CSS]] e [[JavaScript]]. Even so, why can&rsquo;t I preview the images I want to put in my game? I have to export the game to .html file, create a folder and put the images in it, and I still can&rsquo;t see the images inside the editor itself!</p>
+<h4 id="audio">Audio</h4>
+<p>To play audio like music, sfx or ambience, you need a plugin. And to install that plugin you have to insert a huge .js and .css file in your project and even then you can&rsquo;t just activate it, you have to create an invisible special path for it to work. Furthermore, there&rsquo;s a lot of &ldquo;um, actually&rdquo; things to work on still. I just wanted to play some music…</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>It is a good tool for interactive stories; you can have something working in 10 minutes and make something fun with it. But I expected more ease of use and established practices (don&rsquo;t get me wrong, the software is amazing). I would only use for tight game jam deadlines or strictly text-focused ideas, though; for something more elaborate, I would prefer [[Ren&rsquo;Py]].</p>
 
       <div class="mt-6">
         
   <div>
     <div>Tags:</div>
     <ul>
-        <li><a href="/tags/defold/">Defold</a></li>
+        <li><a href="/tags/twine/">Twine</a></li>
         <li><a href="/tags/gamedev/">Gamedev</a></li>
         <li><a href="/tags/game-jam/">Game Jam</a></li>
-        <li><a href="/tags/postmortem/">Postmortem</a></li>
+        <li><a href="/tags/game-engine/">Game Engine</a></li>
     </ul>
   </div>
 
@@ -94,9 +99,14 @@
       <h4 class="mb-4">on this page</h4>
       <nav id="TableOfContents">
   <ul>
-    <li><a href="#the-idea">The Idea</a></li>
-    <li><a href="#the-development">The Development</a></li>
-    <li><a href="#the-conclusion">The Conclusion</a></li>
+    <li><a href="#what-is-twine">What is Twine?</a></li>
+    <li><a href="#my-experience">My Experience</a>
+      <ul>
+        <li><a href="#the-good">The Good</a></li>
+        <li><a href="#the-downsides">The Downsides</a></li>
+      </ul>
+    </li>
+    <li><a href="#conclusion">Conclusion</a></li>
   </ul>
 </nav>
     </div>
@@ -112,7 +122,6 @@
     </div>
     <div class="mx-auto w-full max-w-4xl px-4 py-4">
               
-         
          
          
            
@@ -140,18 +149,16 @@
                 </span>
             </a>
                
-            <a href="/blog/2026/2026-07-09-espiral_postmortem/"
+            <a href="/blog/2026-07-09-my_first_experience_with_twine/"
                 class="not-prose block relative cursor-pointer flex flex-col space-y-4 rounded-lg border border-white p-6 transition-all duration-150 hover:border-pink-300 group focus:outline-none focus:ring-2 focus:ring-pink-300"
-                aria-label="Espiral Postmortem">
+                aria-label="My First Experience with Twine">
                 <h3 class="font-semibold flex items-center gap-2">
-                    <img src="/at-icons--spiral.svg" alt="" /> Espiral Postmortem
+                    <img src="/ph--gear-fill.svg" alt="" /> My First Experience with Twine
                 </h3>
 
-                 
-                <p><em><p>This was my first <a href="/blog/2026/2026-07-09-my_first_experience_with_twine">twine</a> game. I chose it because I really wanted to submit something for the jam, but I only had eight hours left and it was already midnight where I live. The theme was about having 3 minutes left until <em>something</em> happens, so I started thinking…</p>
-<h2 id="the-idea">The Idea</h2>
-<p>If I had more time, I would have tried to go for something abstract and absurd, but I had to work within my constraints and went for something more personal. Everyone worries about money. The most obvious way to earn it is by getting a job, and getting a job usually means going through an interview. A lot of people get anxious before interviews, so I started wondering: what if the countdown wasn&rsquo;t leading to something catastrophic, but to something completely ordinary? A story about overthinking, self-esteem and anxiety turning something so boring into a monster was the idea that made me start writing.</p></em></p>
-                 
+                
+                <p><em>tl;dr: Good for its purpose, writing text-focused interactive stories. Would use it again in writing or planning games or for tight game jam deadlines.</em></p>
+                
 
                 <span class="self-start text-sm text-white underline">
                     Read more →

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 08 Jul 2026 09:00:00 -0700</lastBuildDate>
+			<lastBuildDate>Thu, 09 Jul 2026 19:48:37 -0300</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My First Experience with Twine</title>
+				<link>http://localhost:1313/blog/2026/2026-07-09-my_first_experience_with_twine/</link>
+				<pubDate>Thu, 09 Jul 2026 19:48:37 -0300</pubDate>
+				<guid>http://localhost:1313/blog/2026/2026-07-09-my_first_experience_with_twine/</guid>
+				<description>&lt;h2 id=&#34;what-is-twine&#34;&gt;What is Twine?&lt;/h2&gt;&#xA;&lt;p&gt;In its website, Twine is defined as &amp;ldquo;&lt;em&gt;an open-source tool for telling interactive, nonlinear stories&lt;/em&gt;&amp;rdquo;. I like to think about it as a branching dialog game creator.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-experience&#34;&gt;My Experience&lt;/h2&gt;&#xA;&lt;p&gt;After finishing the [[Customer Cat Postmortem|last game jam]], I was eager to participate in another one, but I only had 8 hours to submit something. With my current skill set, I knew I couldn&amp;rsquo;t make a polished graphical game in that time, so I decided to write an interactive story instead. It&amp;rsquo;s a game after all, right?&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Customer Cat Postmortem</title>
 				<link>http://localhost:1313/blog/2026/2026-07-08-customer_cat_postmortem/</link>
@@ -21,7 +28,7 @@
 				<description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/projects/customer-cat&#34;&gt;Customer Cat&lt;/a&gt; was &lt;a href=&#34;http://localhost:1313/blog/2026/2026-07-08-my_first_experience_with_defold&#34;&gt;my first experience with Defold&lt;/a&gt;, and I used it to make a small Bitsy-inspired game. I only had a few days to work on it for a game jam, which is why the game ended up being so short, rushed, and ultimately not very interesting. Even so, I learned a lot from the experience, and that alone made the project worthwhile.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-idea&#34;&gt;The Idea&lt;/h2&gt;&#xA;&lt;p&gt;A Bitsy game is essentially a collection of rooms, characters, objects, and dialogue, where the player explores the world by interacting with each of those elements. I wanted to make a game in that style about a cat who is incredibly entitled and constantly complains about the not-so-beautiful world around it, especially whenever it&amp;rsquo;s treated like an ordinary customer. Since the jam&amp;rsquo;s theme was &lt;em&gt;&lt;strong&gt;&amp;ldquo;toxic&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;, I thought the concept fit perfectly.&lt;/p&gt;</description>
 			</item>
 			<item>
-				<title>My first experience with Defold</title>
+				<title>My First Experience with Defold</title>
 				<link>http://localhost:1313/blog/2026/2026-07-08-my_first_experience_with_defold/</link>
 				<pubDate>Wed, 08 Jul 2026 09:00:00 -0700</pubDate>
 				<guid>http://localhost:1313/blog/2026/2026-07-08-my_first_experience_with_defold/</guid>
