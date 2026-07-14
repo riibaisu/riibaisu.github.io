@@ -9,7 +9,7 @@ Hello! My name is Riibaisu, but you may also call me by my real name, Levi. I'm 
 
 Check out my [socials](/socials) to find me on other platforms!
 
-## tools I use (not particularly):
+## tools I use (not in order):
 
 ### programming
 - [Godot](https://godotengine.org/)
@@ -20,12 +20,12 @@ Check out my [socials](/socials) to find me on other platforms!
 - [Gimp](https://www.gimp.org/)
 - [Krita](https://krita.org/)
 - [Inkscape](https://inkscape.org/)
-- Aseprite
+- [Aseprite](https://www.aseprite.org/)
 
 ### music
-- Tenacity
-- LMMS
-- 1bitdragon
+- [Tenacity](https://tenacityaudio.org/)
+- [LMMS](https://lmms.io/)
+- [1bitdragon](https://1bitdragon.com)
 """
 
 likes = [

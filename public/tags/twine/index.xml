@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Twine on Riibaisu</title>
+		<link>http://localhost:1313/tags/twine/</link>
+		<description>Recent content in Twine on Riibaisu</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 07 Jul 2026 09:00:00 -0700</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/twine/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Espiral</title>
+				<link>http://localhost:1313/projects/espiral/</link>
+				<pubDate>Tue, 07 Jul 2026 09:00:00 -0700</pubDate>
+				<guid>http://localhost:1313/projects/espiral/</guid>
+				<description>&lt;blockquote&gt;&#xA;&lt;p&gt;Espiral means &amp;ldquo;spiral&amp;rdquo; in Portuguese.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;div class=&#34;flex justify-center w-full my-16 px-4 md:px-0&#34; style=&#34;margin-bottom: 32px; margin-top: 32px;&#34;&gt;&#xA;  &lt;figure class=&#34;flex flex-col items-center max-w-full&#34;&gt;&#xA;      &#xA;    &lt;a href=&#34;http://localhost:1313/images/espiral.png&#34; data-lightbox data-caption=&#34;Espiral cover image&#34;&gt;&#xA;      &lt;img &#xA;        src=&#34;http://localhost:1313/images/espiral.png&#34; &#xA;        alt=&#34;Espiral cover image&#34; &#xA;        loading=&#34;lazy&#34;&#xA;        class=&#34;w-full max-w-xs sm:max-w-md md:max-w-2xl lg:max-w-4xl h-auto object-contain rounded-lg shadow-md transition-shadow duration-300&#34;&#xA;      /&gt;&#xA;    &lt;/a&gt;&#xA;&#xA;    &#xA;  &lt;/figure&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;Espiral is a game I made in Twine for the &lt;a href=&#34;https://itch.io/jam/last-3-minutes-jam&#34;&gt;Last 3 Minutes Jam&lt;/a&gt; about a anxious person having to face their interview in the next three minutes.&lt;/p&gt;&#xA;&lt;p&gt;It has 3 endings, but just 2 are actually very different. The main theme is anxiety and low self-esteem, and how that triggers overthinking to the point of panic and giving up.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

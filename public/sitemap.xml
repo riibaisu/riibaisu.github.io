@@ -29,10 +29,28 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-07-08T09:00:00-07:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projects/espiral/</loc>
+    <lastmod>2026-07-07T09:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/game-jam/</loc>
+    <lastmod>2026-07-07T09:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+    <lastmod>2026-07-07T09:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/projects/</loc>
+    <lastmod>2026-07-07T09:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/twine/</loc>
+    <lastmod>2026-07-07T09:00:00-07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/open-source/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/write/</loc>
+    <lastmod>2023-01-15T09:00:00-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/customer-cat/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/write/test/</loc>
@@ -44,22 +62,10 @@
     <loc>http://localhost:1313/open-source/test3/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/test3/</loc>
-    <lastmod>2023-01-15T09:00:00-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/open-source/test4/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/test4/</loc>
-    <lastmod>2023-01-15T09:00:00-07:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/open-source/</loc>
-    <lastmod>2023-01-15T09:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2023-01-15T09:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/projects/</loc>
     <lastmod>2023-01-15T09:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/write/</loc>

@@ -11,6 +11,7 @@ body {
   font-size: 14px;
 }
 
+
 a:hover:not(.block):not(.not-prose) {
   color: #26a5d3;
 }

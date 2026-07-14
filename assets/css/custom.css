@@ -1,14 +1,14 @@
 html {
-    background-color: #1A1A1A;
+  background-color: #1A1A1A;
 }
 
 
 a:hover:not(.block):not(.not-prose) {
-    color: #d36826;
+  color: #d36826;
 }
 
 nav a:hover {
-    color: #2fd326;
+  color: #2fd326;
 }
 
 a {
@@ -43,3 +43,4 @@ h5 {
 h6 {
   color: #FFFFF0;
 }
+
