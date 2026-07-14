@@ -2,8 +2,8 @@
 title = 'My first experience with Defold'
 date = 2026-07-08T09:00:00-07:00
 draft = false
-tags = ['defold', 'gamedev', 'gamejam']
-listIcon = ""
+tags = ['defold', 'gamedev', 'game jam', 'game engine']
+listIcon = "/ph--gear-fill.svg"
 teaser = "tl;dr: I like Defold, and I will use it when I think it is suited for the project or idea I have."
 +++
 

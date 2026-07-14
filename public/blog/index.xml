@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>blog index on Riibaisu</title>
+		<title>Blogs on Riibaisu</title>
 		<link>http://localhost:1313/blog/</link>
-		<description>Recent content in blog index on Riibaisu</description>
+		<description>Recent content in Blogs on Riibaisu</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -18,7 +18,7 @@
 				<link>http://localhost:1313/blog/2026/2026-07-08-customer_cat_postmortem/</link>
 				<pubDate>Wed, 08 Jul 2026 09:00:00 -0700</pubDate>
 				<guid>http://localhost:1313/blog/2026/2026-07-08-customer_cat_postmortem/</guid>
-				<description>&lt;p&gt;This was &lt;a href=&#34;http://localhost:1313/blog/2026/2026-07-08-my_first_experience_with_defold&#34;&gt;my first experience with Defold&lt;/a&gt;, and I used it to make a small Bitsy-inspired game. I only had a few days to work on it for a game jam, which is why the game ended up being so short, rushed, and ultimately not very interesting. Even so, I learned a lot from the experience, and that alone made the project worthwhile.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-idea&#34;&gt;The Idea&lt;/h2&gt;&#xA;&lt;p&gt;A Bitsy game is essentially a collection of rooms, characters, objects, and dialogue, where the player explores the world by interacting with each of those elements. I wanted to make a game in that style about a cat who is incredibly entitled and constantly complains about the not-so-beautiful world around it, especially whenever it&amp;rsquo;s treated like an ordinary customer. Since the jam&amp;rsquo;s theme was &lt;em&gt;&lt;strong&gt;&amp;ldquo;toxic&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;, I thought the concept fit perfectly.&lt;/p&gt;</description>
+				<description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/projects/customer-cat&#34;&gt;Customer Cat&lt;/a&gt; was &lt;a href=&#34;http://localhost:1313/blog/2026/2026-07-08-my_first_experience_with_defold&#34;&gt;my first experience with Defold&lt;/a&gt;, and I used it to make a small Bitsy-inspired game. I only had a few days to work on it for a game jam, which is why the game ended up being so short, rushed, and ultimately not very interesting. Even so, I learned a lot from the experience, and that alone made the project worthwhile.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-idea&#34;&gt;The Idea&lt;/h2&gt;&#xA;&lt;p&gt;A Bitsy game is essentially a collection of rooms, characters, objects, and dialogue, where the player explores the world by interacting with each of those elements. I wanted to make a game in that style about a cat who is incredibly entitled and constantly complains about the not-so-beautiful world around it, especially whenever it&amp;rsquo;s treated like an ordinary customer. Since the jam&amp;rsquo;s theme was &lt;em&gt;&lt;strong&gt;&amp;ldquo;toxic&amp;rdquo;&lt;/strong&gt;&lt;/em&gt;, I thought the concept fit perfectly.&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>My first experience with Defold</title>

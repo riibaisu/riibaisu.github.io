@@ -2,12 +2,12 @@
 title = 'Customer Cat Postmortem'
 date = 2026-07-08T09:00:00-07:00
 draft = false
-tags = ['defold', 'gamedev', 'gamejam', 'postmortem']
-listIcon = ""
-teaser = "Some flavor text here..."
+tags = ['defold', 'gamedev', 'game jam', 'postmortem']
+listIcon = "/solar--cat-bold.svg"
+teaser = "I like Defold, and I will use it when I think it is suited for the project or idea I have."
 +++
 
-This was [my first experience with Defold](/blog/2026/2026-07-08-my_first_experience_with_defold), and I used it to make a small Bitsy-inspired game. I only had a few days to work on it for a game jam, which is why the game ended up being so short, rushed, and ultimately not very interesting. Even so, I learned a lot from the experience, and that alone made the project worthwhile.
+[Customer Cat](/projects/customer-cat) was [my first experience with Defold](/blog/2026/2026-07-08-my_first_experience_with_defold), and I used it to make a small Bitsy-inspired game. I only had a few days to work on it for a game jam, which is why the game ended up being so short, rushed, and ultimately not very interesting. Even so, I learned a lot from the experience, and that alone made the project worthwhile.
 
 ## The Idea
 

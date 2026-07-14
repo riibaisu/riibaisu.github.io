@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Game Engine on Riibaisu</title>
+		<link>http://localhost:1313/tags/game-engine/</link>
+		<description>Recent content in Game Engine on Riibaisu</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 08 Jul 2026 09:00:00 -0700</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/tags/game-engine/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>My first experience with Defold</title>
+				<link>http://localhost:1313/blog/2026/2026-07-08-my_first_experience_with_defold/</link>
+				<pubDate>Wed, 08 Jul 2026 09:00:00 -0700</pubDate>
+				<guid>http://localhost:1313/blog/2026/2026-07-08-my_first_experience_with_defold/</guid>
+				<description>&lt;p&gt;&lt;img src=&#34;https://raw.githubusercontent.com/defold/assets-defold/master/assets-defold/logo_with_text/logo-hor-classic-white.svg&#34; alt=&#34;Defold Logo&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-defold&#34;&gt;What is Defold?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://defold.com/&#34;&gt;Defold&lt;/a&gt; defines itself as &amp;ldquo;&lt;em&gt;a free, powerful, all-in-one game engine for development of 2D and 3D truly cross-platform games.&lt;/em&gt;&amp;rdquo;&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-experience&#34;&gt;My Experience&lt;/h2&gt;&#xA;&lt;p&gt;My main engine is Godot. It’s the engine I’ve been trying to make games with for the past few years, watching tutorials and experimenting since 2020. However, it is not a perfect game engine, there&amp;rsquo;s no such thing, and it is natural for me, a not so talented gamedev, to try and search for better tools.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
