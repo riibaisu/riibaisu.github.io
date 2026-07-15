@@ -1,4 +1,20 @@
-+++
-title = "socials"
-layout = "socials"
-+++
+---
+title: "socials"
+layout: "socials"
+socials:
+  - name: "Itch.io"
+    url: "https://riibaisu.itch.io/"
+    icon: "itch.io"
+  - name: "Youtube"
+    url: "https://www.youtube.com/@riibaisu"
+    icon: "youtube"
+  - name: "Twitter/X"
+    url: "https://x.com/riibaisu"
+    icon: "twitter"
+  - name: "Bluesky"
+    url: "https://bsky.app/profile/riibaisu.bsky.social"
+    icon: "bluesky"
+  - name: "GitHub"
+    url: "https://github.com/levifmorais"
+    icon: "github"
+---

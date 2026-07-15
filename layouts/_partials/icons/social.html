@@ -1,103 +1,10 @@
-<!doctype html>
-<html lang="en-us" dir="ltr">
-
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightbox3@1/dist/lightbox3.css">
-    <title>Riibaisu</title>
-    <link rel="icon" type="image/png" href="/favicon.png">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap" rel="stylesheet">
-    <link href="/css/styles.css" rel="stylesheet">
-    <link href="/css/custom.css" rel="stylesheet">
-</head>
-</head>
-
-<body>
-    <header><header class="py-6 px-6">
-    <div class="flex justify-start items-center">
-    
-    <nav>
-      <ul class="flex list-none m-0 p-0 gap-4">
-      <li>
-        <a class="text-sm" href="/">
-            <img src="/home_icon.png" alt="home">
-        </a>
-      </li>
-      <li>
-        <a class="text-sm" href="/projects/">
-            projects
-        </a>
-      </li>
-      <li>
-        <a class="text-sm" href="/blog/">
-            blog
-        </a>
-      </li>
-      <li>
-        <a class="text-sm" href="/me/">
-            me
-        </a>
-      </li>
-      <li>
-        <a class="text-sm" href="/socials/">
-            socials
-        </a>
-      </li>
-      </ul>
-    </nav>
-</div>
-</header></header>
-    <div class="flex justify-center">
-        
-        · · ·
-    </div>
-    <main>
-        <div class="mx-auto w-full max-w-4xl px-4 py-6">
-            
-<div class="grid grid-cols-1 justify-center mx-auto w-full max-w-4xl px-4 py-6 space-y-6">
-  <h1 style="text-align: center;">socials</h1>
-  <ul
-    class="flex flex-col justify-center text-xl project-single rounded-lg border border-white m-8 .project-single items-start"
-    style="gap: 24px;">
-    
-    <li>
-      <a href="https://riibaisu.itch.io/" class="flex items-center" style="gap: 8px;">
-        <span class="flex justify-center items-center w-6">
-          
+{{ if eq . "itch.io" }}
 <svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 640 640">
     <path d="M0 0h640v640H0z" fill="none" />
     <path fill="#fffff1"
         d="M135.9 98.8c-21.7 12.9-64.5 62-64.9 74.9V195c0 27.1 25.3 50.8 48.2 50.8c27.6 0 50.5-22.8 50.5-50c0 27.1 22.2 50 49.8 50s49-22.8 49-50c0 27.1 23.6 50 51.2 50h.5c27.6 0 51.2-22.8 51.2-50c0 27.1 21.5 50 49 50s49.8-22.8 49.8-50c0 27.1 23 50 50.5 50c23 0 48.3-23.8 48.3-50.8v-21.3c-.4-12.9-43.2-62.1-64.9-75c-67.4-2.3-114.2-2.7-184-2.7s-165 1.1-184.2 2.8m132.3 134.4c-22 38.4-77.9 38.7-99.8.2c-13.2 23.1-43.2 32.1-56 27.7c-3.9 40.2-13.7 237.1 17.7 269.2c80 18.7 302.1 18.1 379.8 0c31.6-32.3 21.3-232 17.7-269.2c-12.9 4.4-42.9-4.6-56-27.7c-22 38.5-77.8 38.1-99.8-.2c-7.1 12.5-23 28.9-51.8 28.9c-10.4.3-20.8-2.2-29.9-7.3s-16.7-12.6-21.9-21.6M226.6 287c16.5 0 31.1 0 49.2 19.8c29.3-3 58.9-3 88.2 0c18.2-19.7 32.8-19.7 49.2-19.7c52.3 0 65.2 77.5 83.9 144.4c17.3 62.2-5.5 63.7-34 63.7c-42.1-1.6-65.5-32.2-65.5-62.8c-39.3 6.4-101.9 8.8-155.6 0c0 30.6-23.3 61.2-65.5 62.8c-28.4-.1-51.2-1.6-33.9-63.7c18.7-67 31.6-144.4 83.9-144.4v-.1zm93.4 47.8s-44.4 40.8-52.4 55.2l29-1.2v25.3c0 1.5 21.3.2 23.3.2c11.6.5 23.3 1 23.3-.2v-25.3l29 1.2c-8-14.5-52.4-55.2-52.4-55.2h.1z" />
 </svg>
-
-        </span>
-        <span>Itch.io</span>
-      </a>
-    </li>
-    
-    <li>
-      <a href="https://www.youtube.com/@riibaisu" class="flex items-center" style="gap: 8px;">
-        <span class="flex justify-center items-center w-6">
-          
-<svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 24 24">
-    <path d="M0 0h24v24H0z" fill="none" />
-    <path fill="#fffff1"
-        d="M6.443 4.381C7.84 4.25 9.637 4.25 11.96 4.25h.082c2.322 0 4.119 0 5.516.131c1.407.133 2.517.406 3.409 1.03c.928.65 1.377 1.511 1.587 2.607c.197 1.024.197 2.321.197 3.907v.15c0 1.586 0 2.883-.197 3.907c-.21 1.096-.659 1.957-1.587 2.607c-.892.624-2.002.897-3.41 1.03c-1.396.131-3.193.131-5.515.131h-.082c-2.322 0-4.119 0-5.516-.131c-1.407-.133-2.517-.406-3.409-1.03c-.928-.65-1.377-1.511-1.587-2.607c-.197-1.024-.197-2.321-.197-3.907v-.15c0-1.586 0-2.883.197-3.907c.21-1.096.659-1.957 1.587-2.607c.892-.624 2.002-.897 3.41-1.03m5.115 4.564a1.166 1.166 0 0 0-1.608.313c-.13.191-.2.418-.2.65v4.184a1.16 1.16 0 0 0 1.8.968l3.175-2.074a1.155 1.155 0 0 0 .008-1.931z" />
-</svg>
-
-        </span>
-        <span>Youtube</span>
-      </a>
-    </li>
-    
-    <li>
-      <a href="https://x.com/riibaisu" class="flex items-center" style="gap: 8px;">
-        <span class="flex justify-center items-center w-6">
-          
+{{ else if eq . "twitter" }}
 <svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 24 24">
     <path d="M0 0h24v24H0z" fill="none" />
     <g fill="none">
@@ -107,16 +14,7 @@
             d="M4.594 4.984a1 1 0 0 1 .941.429C7.011 7.572 8.783 8.47 10.75 8.674c.096-.841.323-1.672.75-2.404c.626-1.074 1.644-1.864 3.098-2.156c2.01-.404 3.54.324 4.427 1.215l1.792-.335a1 1 0 0 1 1.053 1.478l-1.72 3.022c.157 4.361-1.055 7.405-3.639 9.502c-1.37 1.112-3.332 1.743-5.485 1.938c-2.17.196-4.623-.041-7.061-.753a1 1 0 0 1 .007-1.922c1.226-.349 2.16-.65 3.003-1.177c-1.199-.636-2.082-1.468-2.707-2.416c-.868-1.318-1.19-2.788-1.254-4.113S3.141 8 3.343 7.115c.115-.505.249-1.011.434-1.495a1 1 0 0 1 .818-.636Z" />
     </g>
 </svg>
-
-        </span>
-        <span>Twitter/X</span>
-      </a>
-    </li>
-    
-    <li>
-      <a href="https://bsky.app/profile/riibaisu.bsky.social" class="flex items-center" style="gap: 8px;">
-        <span class="flex justify-center items-center w-6">
-          
+{{ else if eq . "bluesky" }}
 <svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 24 24">
     <path d="M0 0h24v24H0z" fill="none" />
     <g fill="none">
@@ -126,41 +24,16 @@
             d="M5.892 2.93c-1.78-1.06-3.813.446-3.63 2.359l.398 4.185c.176 1.855 1.84 4.026 4.195 3.823C4.5 14 3.132 15.865 4.88 18.145c.286.373.597.745.914 1.062s.69.628 1.062.914c1.88 1.441 4.375-.65 5.055-2.69l.09-.268l.09.269c.68 2.04 3.174 4.13 5.055 2.689c.372-.286.745-.597 1.062-.914s.628-.69.914-1.062c1.747-2.28.379-4.145-1.976-4.848c2.355.203 4.018-1.968 4.195-3.823l.399-4.185c.182-1.913-1.852-3.418-3.631-2.36C15.2 4.66 13.485 7.393 12 9.902C10.515 7.392 8.8 4.66 5.892 2.93" />
     </g>
 </svg>
-
-        </span>
-        <span>Bluesky</span>
-      </a>
-    </li>
-    
-    <li>
-      <a href="https://github.com/levifmorais" class="flex items-center" style="gap: 8px;">
-        <span class="flex justify-center items-center w-6">
-          
+{{else if eq . "github" }}
 <svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 20 20">
     <path d="M0 0h20v20H0z" fill="none" />
     <path fill="#fffff1"
         d="M13.18 11.309c-.718 0-1.3.807-1.3 1.799c0 .994.582 1.801 1.3 1.801s1.3-.807 1.3-1.801c-.001-.992-.582-1.799-1.3-1.799m4.526-4.683c.149-.365.155-2.439-.635-4.426c0 0-1.811.199-4.551 2.08c-.575-.16-1.548-.238-2.519-.238c-.973 0-1.945.078-2.52.238C4.74 2.399 2.929 2.2 2.929 2.2c-.789 1.987-.781 4.061-.634 4.426C1.367 7.634.8 8.845.8 10.497c0 7.186 5.963 7.301 7.467 7.301l1.734.002l1.732-.002c1.506 0 7.467-.115 7.467-7.301c0-1.652-.566-2.863-1.494-3.871m-7.678 10.289h-.056c-3.771 0-6.709-.449-6.709-4.115c0-.879.31-1.693 1.047-2.369C5.537 9.304 7.615 9.9 9.972 9.9h.056c2.357 0 4.436-.596 5.664.531c.735.676 1.045 1.49 1.045 2.369c0 3.666-2.937 4.115-6.709 4.115m-3.207-5.606c-.718 0-1.3.807-1.3 1.799c0 .994.582 1.801 1.3 1.801s1.301-.807 1.301-1.801c0-.992-.582-1.799-1.301-1.799" />
 </svg>
-
-        </span>
-        <span>GitHub</span>
-      </a>
-    </li>
-    
-  </ul>
-  
-</div>
-
-        </div>
-    </main>
-    
-    <div class="flex justify-center">
-        
-        · · ·
-    </div>
-    <footer>
-<p class="text-xs fixed bottom-0 px-6 py-6">Made by Riibaisu with <a href="https://github.com/danapixels/digio-theme" target="_blank" rel="noopener noreferrer">Digio</a> and <a href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">HUGO</a></p>
-<script src="https://cdn.jsdelivr.net/npm/lightbox3@1/dist/lightbox3.min.js"></script></footer>
-</body>
-
-</html>
+{{else if eq . "youtube"}}
+<svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 24 24">
+    <path d="M0 0h24v24H0z" fill="none" />
+    <path fill="#fffff1"
+        d="M6.443 4.381C7.84 4.25 9.637 4.25 11.96 4.25h.082c2.322 0 4.119 0 5.516.131c1.407.133 2.517.406 3.409 1.03c.928.65 1.377 1.511 1.587 2.607c.197 1.024.197 2.321.197 3.907v.15c0 1.586 0 2.883-.197 3.907c-.21 1.096-.659 1.957-1.587 2.607c-.892.624-2.002.897-3.41 1.03c-1.396.131-3.193.131-5.515.131h-.082c-2.322 0-4.119 0-5.516-.131c-1.407-.133-2.517-.406-3.409-1.03c-.928-.65-1.377-1.511-1.587-2.607c-.197-1.024-.197-2.321-.197-3.907v-.15c0-1.586 0-2.883.197-3.907c.21-1.096.659-1.957 1.587-2.607c.892-.624 2.002-.897 3.41-1.03m5.115 4.564a1.166 1.166 0 0 0-1.608.313c-.13.191-.2.418-.2.65v4.184a1.16 1.16 0 0 0 1.8.968l3.175-2.074a1.155 1.155 0 0 0 .008-1.931z" />
+</svg>
+{{ end }}

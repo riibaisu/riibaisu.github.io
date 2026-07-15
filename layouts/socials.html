@@ -1,11 +1,20 @@
 {{ define "main" }}
-<div class="grid   grid-cols-1 justify-center">
-<p style="text-align: center;">coming soon...</p>
-
-<a href="/">
-  <img src="https://www.fg-a.com/under-construction/1-construction-animated.gif" alt="coming soon clipart">
-</a>
-
-{{ .Content }}
+<div class="grid grid-cols-1 justify-center mx-auto w-full max-w-4xl px-4 py-6 space-y-6">
+  <h1 style="text-align: center;">socials</h1>
+  <ul
+    class="flex flex-col justify-center text-xl project-single rounded-lg border border-white m-8 .project-single items-start"
+    style="gap: 24px;">
+    {{ range .Params.socials }}
+    <li>
+      <a href="{{ .url }}" class="flex items-center" style="gap: 8px;">
+        <span class="flex justify-center items-center w-6">
+          {{ partial "icons/social.html" .icon }}
+        </span>
+        <span>{{ .name }}</span>
+      </a>
+    </li>
+    {{ end }}
+  </ul>
+  {{ .Content }}
 </div>
 {{ end }}

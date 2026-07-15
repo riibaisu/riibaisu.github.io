@@ -62,3 +62,17 @@ h5 {
 h6 {
   color: #FFFFF0;
 }
+
+.project-single li::before {
+  content: none;
+}
+
+ul.project-single {
+  padding-left: 64px;
+  padding-right: 64px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+ul.project-single li {
+  padding-left: 0;
+}

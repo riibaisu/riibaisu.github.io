@@ -44,3 +44,15 @@ h6 {
   color: #FFFFF0;
 }
 
+.project-single li::before {
+  content: none;
+}
+.project-single ul {
+  padding-left: 64px;
+  padding-right: 64px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+}
+.project-single ul li {
+  padding-left: 0;
+}
