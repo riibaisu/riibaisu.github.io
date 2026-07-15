@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div>
+  <div class="grid grid-cols-1 justify-center mx-auto w-full max-w-4xl px-4 py-6 space-y-6">
+    <h1 style="text-align: center;">support me ❤</h1>
+    <ul
+      class="flex flex-col justify-center text-xl project-single rounded-lg border border-white m-8 .project-single items-start"
+      style="gap: 24px;">
+      {{ range .Params.support_platforms }}
+      <li>
+        <a href="{{ .url }}" class="flex items-center" style="gap: 16px;">
+          <span class="flex justify-center items-center w-6">
+            {{ partial "icons/social.html" .icon }}
+          </span>
+          <span>{{ .name }}</span>
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+  </div>
+  <h2 style="text-align: center;">Thank you so much for even considering supporting me!</h2>
+</div>
+{{ end }}

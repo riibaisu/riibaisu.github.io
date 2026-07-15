@@ -85,5 +85,7 @@
     <loc>http://localhost:1313/me/</loc>
   </url><url>
     <loc>http://localhost:1313/socials/</loc>
+  </url><url>
+    <loc>http://localhost:1313/support/</loc>
   </url>
 </urlset>
