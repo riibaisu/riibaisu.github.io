@@ -10,15 +10,22 @@
 		
 		
 		
-			<lastBuildDate>Thu, 09 Jul 2026 19:48:37 -0300</lastBuildDate>
+			<lastBuildDate>Thu, 09 Jul 2026 19:55:41 -0300</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/twine/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Espiral Postmortem</title>
+				<link>http://localhost:1313/blog/2026/2026-07-09-espiral_postmortem/</link>
+				<pubDate>Thu, 09 Jul 2026 19:55:41 -0300</pubDate>
+				<guid>http://localhost:1313/blog/2026/2026-07-09-espiral_postmortem/</guid>
+				<description>&lt;p&gt;This was my first &lt;a href=&#34;http://localhost:1313/blog/2026/2026-07-09-my_first_experience_with_twine&#34;&gt;twine&lt;/a&gt; game. I chose it because I really wanted to submit something for the jam, but I only had eight hours left and it was already midnight where I live. The theme was about having 3 minutes left until &lt;em&gt;something&lt;/em&gt; happens, so I started thinking…&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-idea&#34;&gt;The Idea&lt;/h2&gt;&#xA;&lt;p&gt;If I had more time, I would have tried to go for something abstract and absurd, but I had to work within my constraints and went for something more personal. Everyone worries about money. The most obvious way to earn it is by getting a job, and getting a job usually means going through an interview. A lot of people get anxious before interviews, so I started wondering: what if the countdown wasn&amp;rsquo;t leading to something catastrophic, but to something completely ordinary? A story about overthinking, self-esteem and anxiety turning something so boring into a monster was the idea that made me start writing.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>My First Experience with Twine</title>
 				<link>http://localhost:1313/blog/2026/2026-07-09-my_first_experience_with_twine/</link>
 				<pubDate>Thu, 09 Jul 2026 19:48:37 -0300</pubDate>
 				<guid>http://localhost:1313/blog/2026/2026-07-09-my_first_experience_with_twine/</guid>
-				<description>&lt;h2 id=&#34;what-is-twine&#34;&gt;What is Twine?&lt;/h2&gt;&#xA;&lt;p&gt;In its website, Twine is defined as &amp;ldquo;&lt;em&gt;an open-source tool for telling interactive, nonlinear stories&lt;/em&gt;&amp;rdquo;. I like to think about it as a branching dialog game creator.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-experience&#34;&gt;My Experience&lt;/h2&gt;&#xA;&lt;p&gt;After finishing the [[Customer Cat Postmortem|last game jam]], I was eager to participate in another one, but I only had 8 hours to submit something. With my current skill set, I knew I couldn&amp;rsquo;t make a polished graphical game in that time, so I decided to write an interactive story instead. It&amp;rsquo;s a game after all, right?&lt;/p&gt;</description>
+				<description>&lt;p&gt;tldr: Good for its purpose, writing text-focused interactive stories. Would use it again in writing or planning games or for tight game jam deadlines.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-is-twine&#34;&gt;What is Twine?&lt;/h2&gt;&#xA;&lt;p&gt;In its website, Twine is defined as &amp;ldquo;&lt;em&gt;an open-source tool for telling interactive, nonlinear stories&lt;/em&gt;&amp;rdquo;. I like to think about it as a branching dialog game creator.&lt;/p&gt;&#xA;&lt;h2 id=&#34;my-experience&#34;&gt;My Experience&lt;/h2&gt;&#xA;&lt;p&gt;After finishing the [[Customer Cat Postmortem|last game jam]], I was eager to participate in another one, but I only had 8 hours to submit something. With my current skill set, I knew I couldn&amp;rsquo;t make a polished graphical game in that time, so I decided to write an interactive story instead. It&amp;rsquo;s a game after all, right?&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>Espiral</title>

@@ -10,9 +10,16 @@
 		
 		
 		
-			<lastBuildDate>Wed, 08 Jul 2026 09:00:00 -0700</lastBuildDate>
+			<lastBuildDate>Thu, 09 Jul 2026 19:55:41 -0300</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/tags/postmortem/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Espiral Postmortem</title>
+				<link>http://localhost:1313/blog/2026/2026-07-09-espiral_postmortem/</link>
+				<pubDate>Thu, 09 Jul 2026 19:55:41 -0300</pubDate>
+				<guid>http://localhost:1313/blog/2026/2026-07-09-espiral_postmortem/</guid>
+				<description>&lt;p&gt;This was my first &lt;a href=&#34;http://localhost:1313/blog/2026/2026-07-09-my_first_experience_with_twine&#34;&gt;twine&lt;/a&gt; game. I chose it because I really wanted to submit something for the jam, but I only had eight hours left and it was already midnight where I live. The theme was about having 3 minutes left until &lt;em&gt;something&lt;/em&gt; happens, so I started thinking…&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-idea&#34;&gt;The Idea&lt;/h2&gt;&#xA;&lt;p&gt;If I had more time, I would have tried to go for something abstract and absurd, but I had to work within my constraints and went for something more personal. Everyone worries about money. The most obvious way to earn it is by getting a job, and getting a job usually means going through an interview. A lot of people get anxious before interviews, so I started wondering: what if the countdown wasn&amp;rsquo;t leading to something catastrophic, but to something completely ordinary? A story about overthinking, self-esteem and anxiety turning something so boring into a monster was the idea that made me start writing.&lt;/p&gt;</description>
+			</item>
 			<item>
 				<title>Customer Cat Postmortem</title>
 				<link>http://localhost:1313/blog/2026/2026-07-08-customer_cat_postmortem/</link>

@@ -3,27 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2026-07-09T19:48:37-03:00</lastmod>
+    <lastmod>2026-07-09T19:55:41-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-07-09T19:48:37-03:00</lastmod>
+    <lastmod>2026-07-09T19:55:41-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog/2026/2026-07-09-espiral_postmortem/</loc>
+    <lastmod>2026-07-09T19:55:41-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/game-jam/</loc>
+    <lastmod>2026-07-09T19:55:41-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/gamedev/</loc>
+    <lastmod>2026-07-09T19:55:41-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/postmortem/</loc>
+    <lastmod>2026-07-09T19:55:41-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-07-09T19:55:41-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/twine/</loc>
+    <lastmod>2026-07-09T19:55:41-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/game-engine/</loc>
     <lastmod>2026-07-09T19:48:37-03:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/game-jam/</loc>
-    <lastmod>2026-07-09T19:48:37-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/gamedev/</loc>
-    <lastmod>2026-07-09T19:48:37-03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog/2026/2026-07-09-my_first_experience_with_twine/</loc>
-    <lastmod>2026-07-09T19:48:37-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2026-07-09T19:48:37-03:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/twine/</loc>
     <lastmod>2026-07-09T19:48:37-03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/2026/2026-07-08-customer_cat_postmortem/</loc>
@@ -33,9 +39,6 @@
     <lastmod>2026-07-08T09:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog/2026/2026-07-08-my_first_experience_with_defold/</loc>
-    <lastmod>2026-07-08T09:00:00-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/postmortem/</loc>
     <lastmod>2026-07-08T09:00:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/espiral/</loc>
