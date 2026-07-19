@@ -20,7 +20,10 @@
 			<img class="w-[8px] h-[8px] mx-auto" src="https://www.fg-a.com/under-construction/digital-construction.gif" alt="">
 		</div>
 		<div class="not-prose flex cursor-default flex-col space-y-2 rounded-lg border border-white p-6">
-			<img src="{{ or $p.watchingImage "/watching.png" }}" alt="Watching" class="self-start">
+			{{ if $p.watchingImage }}<img src="{{ or $p.watchingImage "/watching.png" }}" alt="Watching" class="self-start">
+			{{ else }}
+			<h1 class="self-start">{{$p.watchingTitle}}</h2>
+			{{ end }}
 			{{ if or $p.watchingUrl $p.watchingText }}
 				<p class="underline">
 					{{ if $p.watchingUrl }}<a href="{{ $p.watchingUrl }}">{{ end }}

@@ -15,7 +15,8 @@ statusText = """Working on my personal website! Using HUGO and TailwindCSS.
  
 **Website is still a work in progress!**"""
 
-watchingImage = "/watching.png"
-watchingText = "How to create a Hugo theme from scratch — Berkay Çubuk // HugoConf 2023"
-watchingUrl = "https://www.youtube.com/watch?v=0WJ2lWNhqm8"
+watchingImage = ""
+watchingTitle = "Portfolio"
+watchingText = "All my projects are on itch.io, so check them out!"
+watchingUrl = "https://riibaisu.itch.io/"
 +++
