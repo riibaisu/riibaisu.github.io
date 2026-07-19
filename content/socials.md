@@ -15,6 +15,6 @@ socials:
     url: "https://bsky.app/profile/riibaisu.bsky.social"
     icon: "bluesky"
   - name: "GitHub"
-    url: "https://github.com/levifmorais"
+    url: "https://github.com/riibaisu"
     icon: "github"
 ---
