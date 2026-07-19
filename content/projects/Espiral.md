@@ -5,6 +5,7 @@ draft = false
 tags = ['projects', 'gamedev', 'twine', 'game jam', 'game']
 listIcon = "/at-icons--spiral.svg"
 teaser = "A narrative game about a anxious person having to face their interview in the next three minutes."
+teaserImage = "/images/espiral.png"
 platforms = ["web"]
 +++
 

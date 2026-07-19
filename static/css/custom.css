@@ -13,11 +13,11 @@ body {
 
 
 a:hover:not(.block):not(.not-prose) {
-  color: #26a5d3;
+  color: #ea698bff;
 }
 
 nav a:hover {
-  color: #d32626;
+  color: #ea698bff;
 }
 
 .hover\:border-pink-300:hover {

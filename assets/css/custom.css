@@ -4,11 +4,11 @@ html {
 
 
 a:hover:not(.block):not(.not-prose) {
-  color: #d36826;
+  color: #ea698bff;
 }
 
 nav a:hover {
-  color: #2fd326;
+  color: #ea698bff;
 }
 
 a {

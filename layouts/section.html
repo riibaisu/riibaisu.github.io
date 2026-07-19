@@ -69,20 +69,33 @@
     <a href="{{ $post.RelPermalink }}" class="block">
       <article
         class="not-prose flex cursor-pointer flex-col space-y-4 rounded-lg border border-transparent p-6 transition-all duration-150 hover:border-pink-300">
-        <h2 class="text-xl font-semibold">
-          <span class="text-white flex items-center">
-            {{ with $icon }}<img src="{{ . }}" alt="" class="mr-2">{{ end }}
-            {{ $post.LinkTitle }}
-          </span>
-        </h2>
-        <ul class="pl-5">
-          <li><time class="text-sm text-gray-300">{{ $post.Date.Format "January 2, 2006" }}</time></li>
-          {{ with $teaser }}<li><em>{{ . | plainify | truncate 140 }}</em></li>{{ end }}
-        </ul>
-        
-        <!-- <div class="w-2" style="width: 12rem;">
-          <img src="/images/customer_cat/customer_cat.png" alt="" class="rounded-lg">
-        </div> -->
+        <div class="flex flex-row" style="justify-content: space-between;">
+          <div>
+
+            <h2 class="text-xl font-semibold">
+              <span class="text-white flex items-center">
+                {{ with $icon }}<img src="{{ . }}" alt="" class="mr-2">{{ end }}
+                {{ $post.LinkTitle }}
+              </span>
+            </h2>
+            {{ if $post.Params.teaserImage}}
+            <ul class="pl-5" style="margin-right: 2rem;">
+              <li><time class="text-sm text-gray-300">{{ $post.Date.Format "January 2, 2006" }}</time></li>
+              {{ with $teaser }}<li><em>{{ . | plainify | truncate 100 }}</em></li>{{ end }}
+            </ul>
+            {{ else }}
+            <ul class="pl-5">
+              <li><time class="text-sm text-gray-300">{{ $post.Date.Format "January 2, 2006" }}</time></li>
+              {{ with $teaser }}<li><em>{{ . | plainify | truncate 140 }}</em></li>{{ end }}
+            </ul>
+            {{ end }}
+          </div>
+          {{ if $post.Params.teaserImage}}
+          <div class="flex-none w-2 border border-white rounded-lg" style="width: 12rem; flex: none;">
+            <img src="{{ $post.Params.teaserImage }}" class="rounded-lg">
+          </div>
+          {{ end}}
+        </div>
       </article>
     </a>
     {{ else if eq .type "link" }}
