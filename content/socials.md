@@ -17,4 +17,7 @@ socials:
   - name: "GitHub"
     url: "https://github.com/riibaisu"
     icon: "github"
+  - name: "RSS"
+    url: "/blog/index.xml"
+    icon: "rss"
 ---
