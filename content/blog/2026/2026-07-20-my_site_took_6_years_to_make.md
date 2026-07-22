@@ -2,6 +2,7 @@
 title = 'My Site Took 6 Years to Make'
 date = 2026-07-20T13:47:03-03:00
 draft = false
+tags = ['web']
 +++
 
 Okay, it is kind of a clickbait.
